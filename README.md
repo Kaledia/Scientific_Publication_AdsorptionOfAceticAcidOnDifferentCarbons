@@ -1,0 +1,2 @@
+# Scientific_Publication_AdsorptionOfAceticAcidOnDifferentCarbons
+Chemistry Scientific Publication with Excel for Linear Regression
